@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is EA1E-A0E4
-
- Directory of C:\Users\Madhushankar\Desktop\mydemo
-
-21-09-2022  01:20    <DIR>          .
-21-09-2022  01:20    <DIR>          ..
-21-09-2022  01:20                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  125,587,087,360 bytes free
+change in this file
